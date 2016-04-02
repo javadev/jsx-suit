@@ -1,6 +1,8 @@
 # jsx-suit
 Quick-start suit for JSX development
 
+[![Dependency Status](https://www.versioneye.com/user/projects/56ffeb03fcd19a0051853b82/badge.svg?style=flat)](https://www.versioneye.com/user/projects/56ffeb03fcd19a0051853b82)
+
 Includes:
   - Webpack (with hot dev-server)
   - React
